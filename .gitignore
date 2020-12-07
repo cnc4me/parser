@@ -1,12 +1,2 @@
-node_modules
-.vscode
-.eslintcache
-
-yarn-error.log
-
-*.tsbuildinfo
-*.log
-*.cache
-.nyc_output
-
-.vercel
+node_modules/
+coverage/
